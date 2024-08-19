@@ -1,7 +1,4 @@
 import streamlit as st
-import os
-
-os.chdir(r"H:\My Drive\Python 4 Juniors\14- Streamlit Portfolio\My_Portfolio")
 
 st.markdown("<h1 style='text-align: center;  font-family: cursive;'>Anas Ahmad</h1>", unsafe_allow_html=True)
 
