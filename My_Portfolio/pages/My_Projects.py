@@ -16,7 +16,7 @@ with c1:
     st.write('''
              An ATM app that allows users to deposit, withdraw, and check balance.
              ''')
-    st.markdown("###### Github: [Click here](#)")
+    st.markdown("###### Github: [Click here](https://github.com/a7mad-mostafa/simple-atm)")
     
 with c2:
     
