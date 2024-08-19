@@ -17,7 +17,7 @@ with c1:
              """)
     
 with c3:
-    st.image("https://as1.ftcdn.net/v2/jpg/02/30/36/46/1000_F_230364633_z4cjfqwfwS6PrIimGimF9kgRVHwsf13U.jpg")
+    st.image("https://i.ibb.co/0nbXcWK/Designer.jpg")
 
 
 st.subheader("My :blue[skills] ⚒️",divider='rainbow')
